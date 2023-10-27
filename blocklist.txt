@@ -33,6 +33,7 @@
 ||hicloud.com^$important
 ||hotjar.com^$important
 ||hotjar.io^$important
+||hubvisor.io^$important
 #||icloud.com^$important
 #||linkedin.com^$important
 ||live-video.net^$important
@@ -48,6 +49,7 @@
 ||opin.media^$important
 ||oppomobile.com^$important
 ||pinterest.com^$important
+||ra3ncmyg1p.com^$important
 ||railway.app^$important
 ||realme.com^$important
 ||realmemobile.com^$important
