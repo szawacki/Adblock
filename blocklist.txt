@@ -1,6 +1,7 @@
 #Ads/Tracking
 ||2o7.net
 ||adcolony.com
+||adjust.com
 ||ads-twitter.com
 ||adtago.s3.amazonaws.com
 ||advice-ads.s3.amazonaws.com
