@@ -115,3 +115,7 @@
 ||amzdigitaldownloads.edgesuite.net
 #||arcus-uswest.amazon.com
 ||d186rixkn5ruba.cloudfront.net
+
+# Brave Browser
+||variations.brave.com
+||star-randsrv.bsg.brave.com
